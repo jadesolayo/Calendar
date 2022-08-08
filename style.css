@@ -65,6 +65,9 @@ tr td {
   .main {
     display: flex;
     flex-direction: column;
-    text-align: center;
+  }
+  .table-container{
+      margin: 30px auto;
+
   }
 }
