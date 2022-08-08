@@ -66,10 +66,8 @@ tr td {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    padding: 20px;
   }
   .table-container {
     margin: 30px auto;
-    text-align: center;
   }
 }
