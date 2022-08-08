@@ -64,7 +64,7 @@ tr td {
   .main {
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-self: center;
   }
   .container{
     padding: 20px auto;
