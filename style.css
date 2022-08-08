@@ -68,6 +68,8 @@ tr td {
   }
   .table-container{
       margin: 30px auto;
-
+  }
+  .main{
+    padding: 0 30px;
   }
 }
